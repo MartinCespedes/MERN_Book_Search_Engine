@@ -164,8 +164,6 @@ npm run develop
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is covered under the MIT License.
-
 ```
-
+This project is covered under the MIT License.
 ```
