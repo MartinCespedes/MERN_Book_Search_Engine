@@ -7,10 +7,7 @@ const { ApolloServer } = require("apollo-server-express");
 const { typeDefs, resolvers } = require("./schemas");
 const { authMiddleware } = require("./utils/auth");
 
-const app = express();
-const PORT = process.env.PORT || 3001;
-
-// add apollo middleware
+// import middleware function
 const startServer = async () => {
   const server = new ApolloServer({
     typeDefs,
@@ -22,6 +19,10 @@ const startServer = async () => {
   console.log(`Use GraphQL at http://localhost:${PORT}${server.graphqlPath}`);
 };
 
+const app = express();
+const PORT = process.env.PORT || 3001;
+
+// add apollo middleware
 startServer();
 
 app.use(express.urlencoded({ extended: true }));
