@@ -33,7 +33,7 @@ This MERN stack application is a book search engine that allows users to search 
 - GIVEN a book search engine
 - WHEN I load the search engine
 - THEN I am presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
-  \*WHEN I click on the Search for Books menu option
+- WHEN I click on the Search for Books menu option
 - THEN I am presented with an input field to search for books and a submit button
 - WHEN I am not logged in and enter a search term in the input field and click the submit button
 - THEN I am presented with several search results, each featuring a book’s title, author, description, image, and a link to that book on the Google Books site
@@ -70,7 +70,8 @@ git clone
 ```
 
 2. Once cloned, open the project folder in your text editor and run the following command in terminal to install all dependencies.
-   Important note - You will need to run the below command in the 'root', 'client' and 'server' directory paths.
+
+- Important note - You will need to run the below command in the 'root', 'client' and 'server' directory paths.
 
 ```
 npm install
@@ -78,7 +79,7 @@ npm install
 
 ## Local-Usage
 
-To view the application in your local browser, cd into the root directory path and run this in terminal:
+- To view the application in your local browser, cd into the root directory path and run this in terminal:
 
 ```
 npm run develop
@@ -102,49 +103,27 @@ npm run develop
 
 - The MERN stack book search engine has the following features:
 
-```
-A user-friendly interface that allows users to search for books by title, author, or keyword.
-```
+- 1. A user-friendly interface that allows users to search for books by title, author, or keyword.
 
-```
-Detailed information about each book, including the title, author, description, image, and a link to the book on the Google Books site.
-```
+- 2. Detailed information about each book, including the title, author, description, image, and a link to the book on the Google Books site.
 
-```
-Secure user authentication with tokens and JWT-decode, ensuring that each user can only access their own data.
-```
+- 3. Secure user authentication with tokens and JWT-decode, ensuring that each user can only access their own data.
 
-```
-User account creation and login functionality, with options for both new and returning users.
-```
+- 4. User account creation and login functionality, with options for both new and returning users.
 
-```
-A saved books page that displays all the books a user has saved to their account, with options to remove books from the list.
-```
+- 5. A saved books page that displays all the books a user has saved to their account, with options to remove books from the list.
 
-```
-A menu that changes dynamically based on the user's authentication status, showing options for searching books, viewing saved books, and logging out.
-```
+- 6. A menu that changes dynamically based on the user's authentication status, showing options for searching books, viewing saved books, and logging out.
 
-```
-High-performance server-side rendering using React and Apollo Client, ensuring a smooth user experience.
-```
+- 7. High-performance server-side rendering using React and Apollo Client, ensuring a smooth user experience.
 
-```
-Modern, clean, and responsive UI design.
-```
+- 8. Modern, clean, and responsive UI design.
 
-```
-All transactions are stored with MongoDB and Mongoose, ensuring data security and reliability.
-```
+- 9. ll transactions are stored with MongoDB and Mongoose, ensuring data security and reliability.
 
-```
-User-friendly error handling with informative error messages and clear user feedback.
-```
+- 10. User-friendly error handling with informative error messages and clear user feedback.
 
-```
-Scalable architecture that can be easily extended and customized with additional features and functionality.
-```
+- 11. Scalable architecture that can be easily extended and customized with additional features and functionality.
 
 ## Resources/Credit
 
@@ -154,15 +133,15 @@ Scalable architecture that can be easily extended and customized with additional
 
 ## Application Screenshot Preview
 
-![ScreenShot-1]
+![ScreenShot-1](./assets/mern_book_search_1_screenshot.png)
 
 ##
 
-![ScreenShot-2]
+![ScreenShot-2](./assets/mern_book_search_2_screenshot.png)
 
 ##
 
-![ScreenShot-3]
+![ScreenShot-3](./assets/mern_book_search_3_screenshot.png)
 
 ## License
 
