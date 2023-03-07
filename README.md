@@ -79,11 +79,29 @@ npm install
 
 ## Local-Usage
 
-- To view the application in your local browser, cd into the root directory path and run this in terminal:
+- To use the MERN Book Search Engine on your local machine, follow these steps:
 
+1. Clone the project repository to your local machine using the following command:
+
+```md
+git clone 'https://github.com/MartinCespedes/MERN_Book_Search_Engine.git'
 ```
+
+2. Install the project dependencies by running the following command from the project root directory:
+
+```md
+npm install
+```
+
+3. Start the development server by running the following command:
+
+```md
 npm run develop
 ```
+
+4. Open your browser and navigate to http://localhost:3000 to access the application.
+
+- You can now use the search engine to find books, create an account, save books, and view your saved books list. Note that you will need to have MongoDB installed and running on your machine to use the application.
 
 ## Technologies Used
 
@@ -147,3 +165,7 @@ npm run develop
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is covered under the MIT License.
+
+```
+
+```
