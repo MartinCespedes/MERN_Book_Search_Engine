@@ -1,4 +1,4 @@
-## :book:Mern Book Search Engine
+## :book:M.E.R.N Book Search Engine
 
 - [Link to live application]()
 
