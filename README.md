@@ -87,17 +87,16 @@ npm run develop
 
 ## Technologies Used
 
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Features
 
@@ -125,12 +124,6 @@ npm run develop
 
 - 11. Scalable architecture that can be easily extended and customized with additional features and functionality.
 
-## Resources/Credit
-
-- Starter Code Provided by : University of Miami
-
-- Author: Martin Cespedes - [Link to my Github](https://github.com/MartinCespedes)
-
 ## Application Screenshot Preview
 
 ![ScreenShot-1](./assets/mern_book_search_1_screenshot.png)
@@ -142,6 +135,12 @@ npm run develop
 ##
 
 ![ScreenShot-3](./assets/mern_book_search_3_screenshot.png)
+
+## Resources/Credit
+
+- Starter Code Provided by : University of Miami
+
+- Author: Martin Cespedes - [Link to my Github](https://github.com/MartinCespedes)
 
 ## License
 
